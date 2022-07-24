@@ -1,4 +1,5 @@
-## Olá! Eu sou Sabrina Rocha e estou aprendendo Java, HTML5 e CSS
+## Olá! Eu sou Sabrina Rocha 
+Estudando: Java, HTML5 e CSS
 
 
 <div align="center">
