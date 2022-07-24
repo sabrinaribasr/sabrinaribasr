@@ -1,5 +1,5 @@
-## Oii! Sou Sabrina Rocha e estou aprendendo Java, HTML5 e CSS
-https://emojipedia.org/open-book/
+## Olá! Eu sou Sabrina Rocha e estou aprendendo Java, HTML5 e CSS
+
 
 <div align="center">
   <a href="https://github.com/sabrinaribasr">
