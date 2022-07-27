@@ -1,5 +1,5 @@
-## Olá! Eu sou Sabrina Rocha 
-Estudando: Java, HTML5 e CSS
+## Olá! Eu sou Sabrina Rocha e estou cursando Análise e Desenvolvimento de Sistemas 
+## Estudando: Java, HTML5 e CSS
 
 
 <div align="center">
