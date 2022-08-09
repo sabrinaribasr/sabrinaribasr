@@ -1,5 +1,5 @@
 ## Olá! Eu sou Sabrina Rocha e estou cursando Análise e Desenvolvimento de Sistemas 
-## Estudando: HTML5 e CSS
+## Estudando: HTML5, CSS, Git e GitHub
 
 
 <div align="center">
