@@ -1,4 +1,4 @@
-## Olá! Eu sou Sabrina Rocha e estou cursando Análise e Desenvolvimento de Sistemas 
+## Olá! Eu sou Sabrina Rocha 
 ## Estudando: HTML5, CSS, Git e GitHub
 
 
