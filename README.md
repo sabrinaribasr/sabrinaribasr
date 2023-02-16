@@ -1,5 +1,6 @@
 ## Olá! Eu sou Sabrina Rocha 
-## Estudando: HTML5, CSS, Git e GitHub
+## Estudando: HTML5, CSS e JavaScript
+## Concluído: Git e GitHub
 
 
 <div align="center">
@@ -13,6 +14,7 @@
   <img align="center" alt="sabrina-GITHUB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="sabrina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sabrina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="sabrina-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  
           
   
